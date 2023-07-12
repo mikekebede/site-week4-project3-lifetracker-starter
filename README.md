@@ -11,11 +11,11 @@ Everywhere around us is data waiting to be collected and utilized. In recent yea
 
 By the end of this project you will be able to...
 
-- [X] Develop a full-fledged authentication system using PostgreSQL and `bcrypt`
-- [X] Provide users with an Express API they can interact with to store user-related activity
-- [X] Construct multiple models that implement the core business logic associated with tracking users' lives
-- [X] Write SQL queries that aggregate user statistics and provide summary overviews about their activity
-- [X] Design a React frontend that interacts with the API using an API service class
+- [ ] Develop a full-fledged authentication system using PostgreSQL and `bcrypt`
+- [ ]  Provide users with an Express API they can interact with to store user-related activity
+- [ ] Construct multiple models that implement the core business logic associated with tracking users' lives
+- [ ] Write SQL queries that aggregate user statistics and provide summary overviews about their activity
+- [ ] Design a React frontend that interacts with the API using an API service class
 - [ ] Build multiple pages and forms that communicate with the server using HTTP requests
 - [ ] Employ `useEffect` and `useState` hooks to manage application state on the frontend
 - [ ] Store user-authenticated JWT tokens in the browser's local storage for persisted authentication
@@ -48,11 +48,10 @@ By the end of this project you will be able to...
 
 
 
-<a href="https://www.loom.com/share/f57589cedd3f4f05a421a74eb829280e">
-    LifeTracker - 7 July 2023 - Watch Video
-    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f57589cedd3f4f05a421a74eb829280e-with-play.gif">
+<a href="https://www.loom.com/share/36afd78a31484b8bb6d8562576b37ea0">
+    LifeTracker - 11 July 2023 - Watch Video
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/36afd78a31484b8bb6d8562576b37ea0-with-play.gif">
   </a>
-
 ### Stretch Features
 
 Implement any of the following features to improve the application:
